@@ -1,0 +1,10 @@
+/jevois/modules/RobOtter/CubeVision/rome/client.py
+/jevois/modules/RobOtter/CubeVision/rome/frame.py
+/jevois/modules/RobOtter/CubeVision/rome/__init__.py
+/jevois/modules/RobOtter/CubeVision/rome/types.py
+/jevois/modules/RobOtter/CubeVision/CubeVision.py
+/jevois/modules/RobOtter/CubeVision/postinstall
+/jevois/modules/RobOtter/CubeVision/process.py
+/jevois/modules/RobOtter/CubeVision/__init__.py
+/jevois/modules/RobOtter/CubeVision/rome_messages.py
+/jevois/modules/RobOtter/CubeVision/jevois_640.txt

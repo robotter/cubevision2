@@ -1,0 +1,30 @@
+%YAML:1.0
+---
+calibrationDate: "Thu 03 May 2018 04:44:39 PM CEST"
+framesCount: 19
+cameraResolution: [ 640, 480 ]
+cameraMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 6.8421868776556721e+02, 0., 3.3515492885313029e+02, 0.,
+       6.8421868776556721e+02, 2.3380371839089676e+02, 0., 0., 1. ]
+cameraMatrix_std_dev: !!opencv-matrix
+   rows: 4
+   cols: 1
+   dt: d
+   data: [ 0., 6.1228185419032233e+00, 1.0617560832760629e+00,
+       1.1065666424223846e+00 ]
+dist_coeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ 3.2203182357366411e-01, -1.9174515692513532e+00, 0., 0.,
+       4.1883608268447405e+00 ]
+dist_coeffs_std_dev: !!opencv-matrix
+   rows: 5
+   cols: 1
+   dt: d
+   data: [ 2.1945617107796224e-02, 2.0600208948487400e-01, 0., 0.,
+       6.2360946963508623e-01 ]
+avg_reprojection_error: 4.4111896719325527e-01

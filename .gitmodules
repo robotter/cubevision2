@@ -1,0 +1,6 @@
+[submodule "robotter"]
+	path = robotter
+	url = ../robotter/
+[submodule "eurobot"]
+	path = eurobot
+	url = ../eurobot/
